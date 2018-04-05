@@ -7,4 +7,4 @@ def math (x,y):
     return summ, mul
 
 math (5,2)
-
+print (summ)
